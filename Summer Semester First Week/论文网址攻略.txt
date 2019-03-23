@@ -1,0 +1,11 @@
+第一步（web of science 检索）：
+http://lib.ustb.edu.cn/Article/ShowArticle.asp?ArticleID=343
+
+if（搜到结果，查看出处）
+有 全文选项 链接的直接进去下载
+
+没链接的，出处在以下的可以进各自的网址搜
+IEEE:     https://ieeexplore.ieee.org
+arXiv:    https://arxiv.org/
+
+ECCV/CVPR(找到对应的会议和时间，可能要挨个翻着找，搜索不好使）：    http://openaccess.thecvf.com   
